@@ -1,6 +1,4 @@
-
-
-<!--# Yoed Baez
+ Yoed Baez
 
 Aspiring Data Analyst with experience in:
 
@@ -43,4 +41,3 @@ Expected Graduation: October 2026
 - Matplotlib
 - R
 - Statistics
-**YoedBaez/YoedBaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
